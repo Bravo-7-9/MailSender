@@ -6,3 +6,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   mail("bravo-7-9@outlook.com","MCSCADA Alert", $message);
 }
 ?>
+</html>
